@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Barkod Stok Takip",
+  "description": "Barkod okuyarak stok sayımı yapan ve Excel'e aktaran mobil uyumlu uygulama.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
